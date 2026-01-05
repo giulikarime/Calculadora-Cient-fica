@@ -15,6 +15,6 @@ Uma calculadora científica desenvolvida em Python utilizando a biblioteca Tkint
 - Biblioteca math
 
 ## Como executar o projeto
-- Acesso o projeto pelo código fonte e faça dowload
+- Acesse o projeto pelo código fonte e faça dowload
 - Abra o VSCode na pasta do projeto
 - Execute calculadora.py
